@@ -1,7 +1,7 @@
 {
     "functions": {
       "app/api/dalle/route.js": {
-        "maxDuration": 3600
+        "maxDuration": 900
       }
     }
   }
