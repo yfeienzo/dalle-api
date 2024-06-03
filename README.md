@@ -1,3 +1,5 @@
+Made with Next.js
+
 ### local env
 
 yarn dev
