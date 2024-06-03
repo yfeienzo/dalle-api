@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "api/dalle.js": {
+        "maxDuration": 60
+      }
+    }
+  }
