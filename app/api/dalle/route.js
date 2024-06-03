@@ -22,7 +22,6 @@ export async function GET(request) {
       status: 200,
       headers: { 'Content-Type': 'application/json' },
     })
-    console.log(data)
   } else {
     return new Response(`Please input query`);
   }
